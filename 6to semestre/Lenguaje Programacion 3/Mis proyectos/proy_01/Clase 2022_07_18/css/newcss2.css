@@ -1,0 +1,38 @@
+.field{
+    border: solid 1px #ccc;
+    padding: 10px;
+}
+.field:focus{
+    border-color: #F0EBE3;
+    
+}
+.center-content{
+    text-align: center;
+    
+}
+.btn{
+    border-radius: 3px;
+    display: inline-block;
+    padding: 20px 15px;
+    text-decoration: none;
+}
+.btn-green{
+    color: white;
+    background-color: #FF869E;
+    
+}
+.btn-green:hover{
+    background-color: #FF8B8B;
+    
+}
+.btn-green:active{
+    background-color: #FF869E;
+}
+form{
+    background-color: #FAF3E3;
+    border-radius: 3px;
+    color: #999;
+    padding: 20px;
+    margin: 0auto;
+    width:300px;
+}

@@ -1,0 +1,41 @@
+#include <stdlib.h>
+#include <stdio.h>
+#include <time.h>
+
+int main(){
+	srand(time(NULL));
+	int i=0;
+	int car=0, time=0, as=0, ie=0, tr=0, is=0, cas=0, cie=0, ctr=0, cis=0;
+	float ptime=0;
+	while (i<850){
+		car = 1+rand()%(1-5);
+		time = time + 5 + rand()%(5-11);
+		
+		//printf("%d\n",time);
+		
+		switch(car){
+			case 1:
+				cas=cas+1;
+				break;
+			case 2:
+				cie=cie+1;
+				break;
+			case 3:
+				ctr=ctr+1;
+				break;
+			case 4:
+				cis=cis+1;
+				break;
+		}
+	
+		i++;
+	}
+		printf("alumnos en analisis = %d\n",cas);
+		printf("alumnos en electrica = %d\n",cie);
+		printf("alumnos en turismo = %d\n",ctr);
+		printf("alumnos en sistemas = %d\n",cis);
+		ptime=time/850;
+		printf("promedio de tiempo = %f minutos\n", ptime);
+
+	system("pause");
+}
