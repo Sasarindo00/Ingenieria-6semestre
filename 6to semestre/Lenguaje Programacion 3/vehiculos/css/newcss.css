@@ -1,0 +1,23 @@
+ 
+            p{
+            color:red; 
+            }
+            h1{
+             color:blue;
+             }
+             nav{
+                 background: #E7F6F2;
+ 
+                 padding: 100px;
+             }
+             .columna{
+                 background: #F2DF3A;
+                 color: white;
+                 padding: 20px;
+                 width: 33%;
+                 margin: 20px;
+               
+             }
+             .padre{
+                 display: flex;
+             }
