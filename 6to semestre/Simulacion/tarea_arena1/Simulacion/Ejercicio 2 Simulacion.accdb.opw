@@ -1,0 +1,9 @@
+[RESOURCES]
+Servicio
+[VARIABLES]
+Cliente.NumberOut
+Carnicería.NumberOut
+Caja.NumberOut
+Carnicería.NumberIn
+Caja.NumberIn
+Salida.NumberOut

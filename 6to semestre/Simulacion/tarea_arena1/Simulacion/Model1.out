@@ -1,0 +1,54 @@
+
+                                      ARENA Simulation Results
+                                    Sugawuara - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 9/ 1/2022
+Analyst: Sugawuara                                                   Model revision date: 9/ 1/2022
+
+Replication ended at time      : 240.0 Hours 
+Statistics were cleared at time: 240.0 Hours (Saturday, October 01, 2022, 00:00:00)
+Statistics accumulated for time: 0.0 Hours
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                                 --         --         --         --          0
+Entity 1.NVATime                                --         --         --         --          0
+Entity 1.WaitTime                               --         --         --         --          0
+Entity 1.TranTime                               --         --         --         --          0
+Entity 1.OtherTime                              --         --         --         --          0
+Entity 1.TotalTime                              --         --         --         --          0
+Caja.Queue.WaitingTime                          --         --         --         --          0
+Carnicería.Queue.WaitingTime                    --         --         --         --          0
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                .00000     (Insuf)    8.0000     8.0000     8.0000    
+Servicio.NumberBusy                         .00000     (Insuf)    1.0000     1.0000     1.0000    
+Servicio.NumberScheduled                    .00000     (Insuf)    1.0000     1.0000     1.0000    
+Servicio.Utilization                        .00000     (Insuf)    1.0000     1.0000     1.0000    
+Caja.Queue.NumberInQueue                    .00000     (Insuf)    4.0000     4.0000     4.0000    
+Carnicería.Queue.NumberInQueue              .00000     (Insuf)    3.0000     3.0000     3.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           .00000    
+Entity 1.NumberOut                          .00000    
+Servicio.NumberSeized                       .00000    
+Servicio.ScheduledUtilization               .00000    
+System.NumberOut                            .00000    
+
+
+Simulation run time: 0.12 minutes.
+Simulation run complete.

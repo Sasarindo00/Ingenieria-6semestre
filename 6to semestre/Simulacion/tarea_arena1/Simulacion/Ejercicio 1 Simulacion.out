@@ -1,0 +1,52 @@
+SIMAN Run Controller.
+
+0.017307613 Hours>
+                                      ARENA Simulation Results
+                                         naleh.ss@gmail.com
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 8/30/2022
+Analyst: naleh.ss@gmail.com                                          Model revision date: 8/30/2022
+
+Replication ended at time      : 0.017307613 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .01484     (Insuf)    .01484     .01484          1    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000          1    
+Entity 1.WaitTime                           .00000     (Insuf)    .00000     .00000          1    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000          1    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000          1    
+Entity 1.TotalTime                          .01484     (Insuf)    .01484     .01484          1    
+atencion.Queue.WaitingTime                  .00000     (Insuf)    .00000     .00000          1    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                .85747     (Insuf)    .00000     1.0000     .00000    
+Servicio.NumberBusy                         .85747     (Insuf)    .00000     1.0000     .00000    
+Servicio.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Servicio.Utilization                        .85747     (Insuf)    .00000     1.0000     .00000    
+atencion.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           1.0000    
+Entity 1.NumberOut                          1.0000    
+Servicio.NumberSeized                       1.0000    
+Servicio.ScheduledUtilization               .85747    
+System.NumberOut                            1.0000    
+
+
+Simulation run time: 0.07 minutes.
+Simulation run complete.

@@ -1,0 +1,7 @@
+[RESOURCES]
+Servicio
+[VARIABLES]
+atencion.NumberOut
+cliente.NumberOut
+atencion.NumberIn
+Salida.NumberOut
