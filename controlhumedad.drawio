@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T23:01:52.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="zvw4mMPzANS4Ao0OykUD" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T23:07:02.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="0Owam-HfHs7Ir33EoAOc" version="22.1.0" type="github">
   <diagram name="Página-1" id="oo2b2P322gu51yyDmSE4">
     <mxGraphModel dx="733" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OnJOJkfW26qgvHNyzBtO-5" value="Modulo rele 2 canales 5v" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="255" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="255" width="80" height="65" as="geometry" />
         </mxCell>
         <mxCell id="OnJOJkfW26qgvHNyzBtO-7" value="Analogico&amp;nbsp;&lt;br&gt;ADC&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="160" width="60" height="30" as="geometry" />
