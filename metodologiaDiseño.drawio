@@ -1,9 +1,135 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T23:33:15.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.4" etag="qaZjpS8Q3ZActrmlo-2_" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-17T01:21:14.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="s_2lPE56B7jRRVA4BIGp" version="24.6.4" type="github">
   <diagram name="Página-1" id="xHhpCMsLChslAIigYEsm">
-    <mxGraphModel>
+    <mxGraphModel dx="1528" dy="1007" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="626" width="506" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="428" width="506" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="230" width="506" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="32" width="506" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-1" value="Diseño Basado en Plataforma (PBD)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="-49" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-2" value="Co-Diseño de Hardware y Software&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="266.5" y="-46" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-3" value="Plataforma Base&lt;div&gt;Hardware y Software&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-233" y="102" width="238" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-4" value="Familia de Productos&lt;div&gt;Productos con características comunes&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-171" y="248" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-5" value="Reutilizacion de IP Cores&lt;div&gt;Grupos de IP cores reutilizable&lt;/div&gt;&lt;div&gt;Arquitectura basada en la reutilizacion de IP cores&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-208" y="362" width="194" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-6" value="Proceso de Diseño&lt;div&gt;Facilitacion de la verificacion de SoC complejos&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-166" y="518" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-7" value="Modelamiento Funcional&lt;div&gt;&lt;li&gt;Establecimiento de los requerimientos del producto.&lt;/li&gt;&lt;li&gt;Verificación de las especificaciones del funcionamiento del sistema.&lt;/li&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="98" y="72" width="159" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-8" value="Modelamiento de la Arquitectura&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Elección de una arquitectura que ejecute las funciones del sistema.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Uso de plataformas de desarrollo como Xilinx Spartan-6 FPGA Embedded Kit.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="81" width="235" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-9" value="Peticion y Analisis&lt;div&gt;&lt;li&gt;Asignación de tareas del sistema a recursos específicos de hardware o software.&lt;/li&gt;&lt;li&gt;División del modelo funcional en capas: Capa de Hardware, Capa de Sistema Operativo y Capa de Aplicación.&lt;/li&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="254" width="349" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-10" value="Implementacion de Hardware&lt;div&gt;&lt;li&gt;Diseño e integración de bloques de hardware nuevos y reutilizables (IP Cores).&lt;/li&gt;&lt;li&gt;Síntesis del código VHDL de la plataforma de hardware&lt;/li&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="87" y="467.5" width="191" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-11" value="Implementación de Software&amp;nbsp;&lt;div&gt;La programación de la aplicación de software a &lt;br&gt;través de un IDE, utilizando los drivers y librerías &lt;br&gt;necesarios.&lt;br&gt; La compilación del código del programa, dado en&lt;br&gt; lenguajes como&amp;nbsp; C o C++,y&lt;br&gt; Su almacenamiento en el núcleo del procesador.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="299" y="464.5" width="277" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-17" value="&lt;div&gt;Integración del sistema&lt;/div&gt;La implementación de un producto final suele incluir emuladores y prototipos rápidos antes de la fabricación en serie, para verificar las funciones de hardware y software del sistema. En este proyecto, se llega únicamente hasta la emulación del producto sobre la tarjeta SP605." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="194" y="659" width="265" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-18" value="FASE1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="78" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-19" value="FASE 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="76" y="245" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-21" value="FASE 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="72" y="431" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-22" value="FASE 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="72" y="629" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="266.5" y="111" as="sourcePoint" />
+            <mxPoint x="325.5" y="111" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-25" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="328.5" y="147" as="sourcePoint" />
+            <mxPoint x="266.5" y="147" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-26" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="198" y="189" as="sourcePoint" />
+            <mxPoint x="198" y="254" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409" y="185" as="sourcePoint" />
+            <mxPoint x="409" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-28" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="390" as="sourcePoint" />
+            <mxPoint x="405" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="202" y="391" as="sourcePoint" />
+            <mxPoint x="202" y="456" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-30" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="241" y="589.5" as="sourcePoint" />
+            <mxPoint x="241" y="654.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-31" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="377" y="594" as="sourcePoint" />
+            <mxPoint x="377" y="659" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-36" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-114.5" y="200" as="sourcePoint" />
+            <mxPoint x="-114" y="252" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-37" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-116" y="308" as="sourcePoint" />
+            <mxPoint x="-115.5" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCxSlk2h3NeYpsrcCZzZ-38" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-111.5" y="464.5" as="sourcePoint" />
+            <mxPoint x="-111" y="516.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
