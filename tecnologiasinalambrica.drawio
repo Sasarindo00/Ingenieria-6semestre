@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Página-1" id="nQ5frLMZB072RI-RVfBC">
-    <mxGraphModel>
+    <mxGraphModel dx="1668" dy="1053" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Y4OYe7Mp_iKTlkomWmUW-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Y4OYe7Mp_iKTlkomWmUW-1" target="Y4OYe7Mp_iKTlkomWmUW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4OYe7Mp_iKTlkomWmUW-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Y4OYe7Mp_iKTlkomWmUW-1" target="Y4OYe7Mp_iKTlkomWmUW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4OYe7Mp_iKTlkomWmUW-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Y4OYe7Mp_iKTlkomWmUW-1" target="Y4OYe7Mp_iKTlkomWmUW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4OYe7Mp_iKTlkomWmUW-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Y4OYe7Mp_iKTlkomWmUW-1" target="Y4OYe7Mp_iKTlkomWmUW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4OYe7Mp_iKTlkomWmUW-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Y4OYe7Mp_iKTlkomWmUW-1" target="Y4OYe7Mp_iKTlkomWmUW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4OYe7Mp_iKTlkomWmUW-1" value="Tecnológicas inalámbricas&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-16" y="-51" width="188" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4OYe7Mp_iKTlkomWmUW-2" value="WiFi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-231" y="74" width="95" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4OYe7Mp_iKTlkomWmUW-3" value="Zigbee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-94" y="74" width="95" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4OYe7Mp_iKTlkomWmUW-5" value="Z-wave" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="74" width="95" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4OYe7Mp_iKTlkomWmUW-6" value="BLE(bluetooth low energy)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="73" width="100" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4OYe7Mp_iKTlkomWmUW-7" value="Thread" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="296" y="73" width="95" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4OYe7Mp_iKTlkomWmUW-13" value="sistemas de automatización del hogar y IoT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="173" width="166" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4OYe7Mp_iKTlkomWmUW-15" value="Internet doméstico, streaming de video" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="173" width="166" height="36" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
