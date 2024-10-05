@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Página-1" id="YH5fWdVlZLKdDfrG_WIM">
-    <mxGraphModel>
+    <mxGraphModel dx="1450" dy="607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JJ9GRUXrNec1wWk0UbON-1" value="tarea 1&amp;nbsp;&lt;br&gt;SPI&lt;div&gt;(ENCENDIDO Y APAGADO)&lt;/div&gt;&lt;div&gt;de lora y rfid&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-94" y="42" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ9GRUXrNec1wWk0UbON-3" value="tarea 2 LORAWAN&lt;span style=&quot;background-color: initial;&quot;&gt;(SWITCH CASE ) pregunta state del caso&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-94" y="177" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ9GRUXrNec1wWk0UbON-5" value="tarea 3&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="38" y="42" width="115" height="115" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
